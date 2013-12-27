@@ -18,3 +18,5 @@ $RECYCLE.BIN/
 # sublime text project & workspace
 *.sublime-project
 *.sublime-workspace
+
+node_modules
